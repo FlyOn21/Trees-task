@@ -1,6 +1,5 @@
 package app.views;
 
-import app.entitys.NodeTree;
 import app.models.BTreeModel;
 
 import java.util.Scanner;
